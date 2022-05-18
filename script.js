@@ -22,4 +22,4 @@ const loadImages = ( images, container ) => {
     })
 }
 
-loadImages( images, container )
+//loadImages( images, container )
