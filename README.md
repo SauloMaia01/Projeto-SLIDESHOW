@@ -3,4 +3,4 @@ Criação de um slideshow com ações para retroceder e avanças. Utilizei no pr
 
 Link com video que utilizei como base para o projeto: https://www.youtube.com/watch?v=csNYVAS2ex8&list=PLDgemkIT111AzoS1rB61sgMJbsEA4pyD2&index=6
 
-Resultado final do projeto: 
+Resultado final do projeto: https://saulomaia01.github.io/Projeto-SLIDESHOW/
